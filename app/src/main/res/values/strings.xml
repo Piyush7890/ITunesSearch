@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ITunesSearch</string>
+    <string name="search_text">Search for songs...</string>
+</resources>
